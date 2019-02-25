@@ -1,6 +1,6 @@
 package com.tahir.authorization.server.authorizationserver.service.impl;
 
-import com.tahir.authorization.server.authorizationserver.dao.UserDao;
+
 import com.tahir.authorization.server.authorizationserver.model.User;
 import com.tahir.authorization.server.authorizationserver.repository.UserRepository;
 import com.tahir.authorization.server.authorizationserver.service.UserService;
