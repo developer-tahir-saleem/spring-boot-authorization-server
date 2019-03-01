@@ -6,7 +6,7 @@
 --
 
 INSERT INTO `user` (`id`, `account_non_expired`, `account_non_locked`, `credentials_non_expired`, `enabled`, `password`, `type`, `username`, `deleted`) VALUES
-(unhex(replace('d87c8a06-37ec-4d01-b149-8e66f2aa4611','-','')), b'1', b'1', b'1', b'1', '$2a$10$1SPU2i7AcX6m5yyoTTMQwu1hmEdnu0URl//hspiSMhQDYJTQKTpYq', 'OWNER', 'admin@inventoryme.app', false);
+(unhex(replace('d87c8a06-37ec-4d01-b149-8e66f2aa4611','-','')), b'1', b'1', b'1', b'1', '$2a$10$ZI750U4ZXuu6svpX8.KEpOncNC7LPQ.wP3x3JdtYTXdeb4khozwXm', 'OWNER', 'admin@gmail.com', false);
 
 -- --------------------------------------------------------
 
